@@ -1,1 +1,1 @@
-underground react app and related technologies showcase
+Formula 1 showcase app in React and related technologies
